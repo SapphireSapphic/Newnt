@@ -1,140 +1,1 @@
-title: Newn't
-originalAuthor: SapphireSapphic
-game: kh2
-description: Are you tired of seeing that little "New" icon every time you play? Not being able to take care of it because it loses time in randomzier? Well here, I removed it for you!
-
-
-assets:
-#PS2
-- name: menu\fm\camp.2ld\camp-0.png
-  platform: ps2
-  method: copy
-  source:
-  - name: menu\fm\camp.2ld\camp-0.png
-- name: menu\fm\itemshop.2ld\itemshop-0.png
-  platform: ps2
-  method: copy
-  source:
-  - name: menu\fm\itemshop.2ld\itemshop-0.png
-
-#PC
-- name: remastered\menu\fm\camp.2ld\-0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\-0.png
-- name: remastered\menu\fm\camp.2ld\FR_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\FR_camp_2ld0.png
-- name: remastered\menu\fm\camp.2ld\GR_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\GR_camp_2ld0.png
-- name: remastered\menu\fm\camp.2ld\IT_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\IT_camp_2ld0.png
-- name: remastered\menu\fm\camp.2ld\SP_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\SP_camp_2ld0.png
-- name: remastered\menu\fm\camp.2ld\UK_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\UK_camp_2ld0.png
-- name: remastered\menu\fm\camp.2ld\US_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\camp.2ld\US_camp_2ld0.png
-- name: remastered\menu\fm\itemshop.2ld\-1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\-1.png
-- name: remastered\menu\fm\itemshop.2ld\FR_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\FR_itemshop_2ld1.png
-- name: remastered\menu\fm\itemshop.2ld\GR_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\GR_itemshop_2ld1.png
-- name: remastered\menu\fm\itemshop.2ld\IT_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\IT_itemshop_2ld1.png
-- name: remastered\menu\fm\itemshop.2ld\SP_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\SP_itemshop_2ld1.png
-- name: remastered\menu\fm\itemshop.2ld\US_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fm\itemshop.2ld\US_itemshop_2ld1.png
-- name: remastered\menu\fr\camp.2ld\FR_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fr\camp.2ld\FR_camp_2ld0.png
-- name: remastered\menu\fr\itemshop.2ld\FR_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\fr\itemshop.2ld\FR_itemshop_2ld1.png
-- name: remastered\menu\gr\camp.2ld\GR_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\gr\camp.2ld\GR_camp_2ld0.png
-- name: remastered\menu\gr\itemshop.2ld\GR_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\gr\itemshop.2ld\GR_itemshop_2ld1.png
-- name: remastered\menu\it\camp.2ld\IT_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\it\camp.2ld\IT_camp_2ld0.png
-- name: remastered\menu\it\itemshop.2ld\IT_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\it\itemshop.2ld\IT_itemshop_2ld1.png
-- name: remastered\menu\sp\camp.2ld\SP_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\sp\camp.2ld\SP_camp_2ld0.png
-- name: remastered\menu\sp\itemshop.2ld\SP_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\sp\itemshop.2ld\SP_itemshop_2ld1.png
-- name: remastered\menu\uk\camp.2ld\UK_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\uk\camp.2ld\UK_camp_2ld0.png
-- name: remastered\menu\us\camp.2ld\US_camp_2ld0.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\us\camp.2ld\US_camp_2ld0.png
-- name: remastered\menu\us\itemshop.2ld\US_itemshop_2ld1.png
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\menu\us\itemshop.2ld\US_itemshop_2ld1.png
+title: Newn'toriginalAuthor: SapphireSapphicgame: kh2description: Are you tired of seeing that little "New" icon every time you play? Not being able to take care of it because it loses time in randomzier? Well here, I removed it for you!assets:#PS2- name: menu\fm\camp.2ld  platform: ps2  method: copy  source:  - name: menu\fm\camp.2ld- name: menu\fm\itemshop.2ld  platform: ps2  method: copy  source:  - name: menu\fm\itemshop.2ld#PC- name: remastered\menu\fm\camp.2ld\-0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\-0.png- name: remastered\menu\fm\camp.2ld\FR_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\FR_camp_2ld0.png- name: remastered\menu\fm\camp.2ld\GR_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\GR_camp_2ld0.png- name: remastered\menu\fm\camp.2ld\IT_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\IT_camp_2ld0.png- name: remastered\menu\fm\camp.2ld\SP_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\SP_camp_2ld0.png- name: remastered\menu\fm\camp.2ld\UK_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\UK_camp_2ld0.png- name: remastered\menu\fm\camp.2ld\US_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\camp.2ld\US_camp_2ld0.png- name: remastered\menu\fm\itemshop.2ld\-1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\-1.png- name: remastered\menu\fm\itemshop.2ld\FR_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\FR_itemshop_2ld1.png- name: remastered\menu\fm\itemshop.2ld\GR_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\GR_itemshop_2ld1.png- name: remastered\menu\fm\itemshop.2ld\IT_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\IT_itemshop_2ld1.png- name: remastered\menu\fm\itemshop.2ld\SP_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\SP_itemshop_2ld1.png- name: remastered\menu\fm\itemshop.2ld\US_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fm\itemshop.2ld\US_itemshop_2ld1.png- name: remastered\menu\fr\camp.2ld\FR_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\fr\camp.2ld\FR_camp_2ld0.png- name: remastered\menu\fr\itemshop.2ld\FR_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\fr\itemshop.2ld\FR_itemshop_2ld1.png- name: remastered\menu\gr\camp.2ld\GR_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\gr\camp.2ld\GR_camp_2ld0.png- name: remastered\menu\gr\itemshop.2ld\GR_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\gr\itemshop.2ld\GR_itemshop_2ld1.png- name: remastered\menu\it\camp.2ld\IT_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\it\camp.2ld\IT_camp_2ld0.png- name: remastered\menu\it\itemshop.2ld\IT_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\it\itemshop.2ld\IT_itemshop_2ld1.png- name: remastered\menu\sp\camp.2ld\SP_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\sp\camp.2ld\SP_camp_2ld0.png- name: remastered\menu\sp\itemshop.2ld\SP_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\sp\itemshop.2ld\SP_itemshop_2ld1.png- name: remastered\menu\uk\camp.2ld\UK_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\uk\camp.2ld\UK_camp_2ld0.png- name: remastered\menu\us\camp.2ld\US_camp_2ld0.png  platform: pc  method: copy  source:  - name: remastered\menu\us\camp.2ld\US_camp_2ld0.png- name: remastered\menu\us\itemshop.2ld\US_itemshop_2ld1.png  platform: pc  method: copy  source:  - name: remastered\menu\us\itemshop.2ld\US_itemshop_2ld1.png
